@@ -14,7 +14,7 @@
 		<table border="0">
 			<tr>
 				<td>
-					Ç»Ç‹Ç¶:
+					name:
 				</td>
 				<td>
 					<input type="text" name="txtName" size="20" maxlength="20" onfocus="this.select()" value=""/>
@@ -22,7 +22,7 @@
 			</tr>
 			<tr>
 				<td>
-					ÇœÇ∑ÇÌÅ[Ç«:
+					password:
 				</td>
 				<td>
 					<input type="text" name="txtPassword" size="10" maxlength="10" onfocus="this.select()" value=""/>
